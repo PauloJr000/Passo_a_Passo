@@ -3,9 +3,6 @@
 ## Nome da Dupla
 **Francisco de Paulo Mesquita Júnior e Gabriel Sousa Braga**
 
-## Matrícula
-**554902 e 517451**
-
 ---
 
 ## Passo 1 - Instalação do Samba
